@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  color: #333;
+}
+
+header,
+section,
+footer {
+  margin-bottom: 20px;
+}
+
+h1,
+h2 {
+  color: #017acd;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+footer {
+  font-size: 0.8em;
+  text-align: center;
+}
+header img {
+  display: block; /* Faz com que a imagem seja tratada como um bloco, permitindo centralização */
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+  width: 150px; /* Define uma largura fixa; ajuste conforme necessário */
+  height: auto; /* Mantém a proporção da altura com a largura */
+}
+
+header {
+  text-align: center; /* Centraliza o texto no cabeçalho */
+}
